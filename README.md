@@ -4,7 +4,7 @@ I am working to harmonize business storytelling and data analytics. A few things
 
 - 🔭 I will graduate with a BS in Statistics from Brigham Young University in April 2023
 - 🌱 I’m currently practicing SQL, Excel, Python, R, and Tableau
-- ⚡ Fun fact: I'm a professional magician, I can do 6/7 of the basic jumps in ice skating, and I am going to read 100 books in 2022
+- ⚡ Fun fact: I'm a professional magician, I can do 6/7 of the basic jumps in ice skating, and I read 100 books in 2022
 
 You can contact me through LinkedIn: [https://www.linkedin.com/in/john-linford/](url)
 
